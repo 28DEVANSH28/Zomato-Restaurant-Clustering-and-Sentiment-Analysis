@@ -1,22 +1,61 @@
-Analyze the textual data, categorized restaurants based on features such as cuisine, cost, location, and user ratings using clustering techniques.
+# 🍽️ Zomato Restaurant Clustering & Sentiment Analysis 🚀
 
-Conducted sentiment analysis on user reviews using NLP and discovered topics of interest.
+![Zomato Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Zomato_logo.svg)  
+*Analyze restaurants, understand customers, and boost your business!*
 
-The findings of the analysis can be used by restaurant owners and managers to improve their offerings and customer experience, and by food industry analysts to gain a deeper understanding of market trends and consumer behavior.
+---
 
-It will enhance the customer experience by up to 90%. Helps to grow business by up to 80 %.# Zomato-Restaurant-Clustering-and-Sentiment-Analysis
+## 📌 Project Overview
+This project analyzes Zomato restaurant data to gain insights about customer preferences and market trends.  
+It uses **clustering** to categorize restaurants based on features and **sentiment analysis** to understand user reviews.  
 
-#Libraries Used:
-Numpy
-Pandas
-Matpllotlib
-Seaborn
-sklearn
-xgboost
-warnings
+**Impact:**  
+- 🌟 Enhance customer experience by up to **90%**  
+- 📈 Potential business growth by up to **80%**
 
-#Machine Learning Models Implimented:
+---
 
-Negative and Positive sentiment Analysis With Polyrity
-K-means Clustering
+## 🔍 Features Analyzed
+Restaurants are categorized based on:  
+- 🍛 Cuisine Type  
+- 💰 Cost for Two  
+- 📍 Location  
+- ⭐ User Ratings  
+
+---
+
+## 🛠️ Techniques Used
+
+### 1️⃣ Clustering
+- **K-Means Clustering** to group restaurants based on cost and ratings.
+- Helps identify patterns in restaurant performance.
+
+### 2️⃣ Sentiment Analysis
+- **TextBlob** used to classify reviews as Positive 👍, Negative 👎, or Neutral 😐.
+- Discover topics of interest from customer reviews.
+
+---
+
+## 💻 Libraries Used
+- `numpy`  
+- `pandas`  
+- `matplotlib` & `seaborn`  
+- `sklearn` (KMeans, StandardScaler)  
+- `textblob`  
+- `warnings`
+
+---
+
+## 📊 Sample Insights
+- Cluster restaurants to identify high-performing and low-performing groups.  
+- Analyze review sentiments to improve customer satisfaction.  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Zomato-Restaurant-Clustering.git
+
 
