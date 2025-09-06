@@ -46,12 +46,5 @@ Restaurants are categorized based on:
 - Cluster restaurants to identify high-performing and low-performing groups.  
 - Analyze review sentiments to improve customer satisfaction.  
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Zomato-Restaurant-Clustering.git
 
 
