@@ -1,9 +1,5 @@
 # 🍽️ Zomato Restaurant Clustering & Sentiment Analysis 🚀
 
-![Zomato Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Zomato_logo.svg)  
-*Analyze restaurants, understand customers, and boost your business!*
-
----
 
 ## 📌 Project Overview
 This project analyzes Zomato restaurant data to gain insights about customer preferences and market trends.  
